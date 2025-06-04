@@ -1,3 +1,3 @@
 module github.com/kokejohh/todo-list-api-go
 
-go 1.24.3
+go 1.24
